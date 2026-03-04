@@ -1,0 +1,342 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "slug": "mastering-golden-hour-photography",
+      "title": "إتقان تصوير الساعة الذهبية: دليل شامل",
+      "excerpt": "تعلم كيفية التقاط صور مذهلة خلال الساعة الذهبية مع نصائح احترافية حول الإضاءة والتكوين.",
+      "content": "الساعة الذهبية هي تلك الفترة السحرية من اليوم التي تحدث بعد شروق الشمس مباشرة وقبل غروبها. خلال هذا الوقت، يكون الضوء دافئاً وناعماً، مما يخلق ظلالاً طويلة وألواناً غنية.",
+      "category": "إضاءة",
+      "readTime": 8,
+      "date": "2026-01-15",
+      "image": "https://images.unsplash.com/photo-1500964757637-c85e8a162699?w=800",
+      "featured": true,
+      "author": {
+        "name": "سالم أحمد",
+        "role": "مصور محترف",
+        "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+      }
+    },
+    {
+      "id": 2,
+      "slug": "portrait-photography-secrets",
+      "title": "أسرار تصوير البورتريه: كيف تلتقط روح الشخصية",
+      "excerpt": "اكتشف تقنيات احترافية لتصوير بورتريهات تعبيرية تكشف عن شخصية الموضوع الحقيقية.",
+      "content": "تصوير البورتريه هو فن التقاط جوهر الشخص في صورة واحدة. الأمر يتعلق بأكثر من مجرد توجيه الكاميرا نحو وجه شخص ما.",
+      "category": "بورتريه",
+      "readTime": 6,
+      "date": "2026-01-12",
+      "image": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=800",
+      "featured": true,
+      "author": {
+        "name": "محمد علي",
+        "role": "مصور بورتريه",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+      }
+    },
+    {
+      "id": 3,
+      "slug": "landscape-photography-guide",
+      "title": "دليل تصوير المناظر الطبيعية: من المبتدئ إلى المحترف",
+      "excerpt": "استكشف تقنيات تصوير المناظر الطبيعية الخلابة وكيفية التقاط جمال الطبيعة بعدستك.",
+      "content": "تصوير المناظر الطبيعية يتطلب صبراً وتخطيطاً دقيقاً. من اختيار الموقع المناسب إلى انتظار الإضاءة المثالية.",
+      "category": "مناظر طبيعية",
+      "readTime": 10,
+      "date": "2026-01-10",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "featured": true,
+      "author": {
+        "name": "إبراهيم حسن",
+        "role": "مصور طبيعة",
+        "avatar": "https://randomuser.me/api/portraits/men/3.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "slug": "camera-settings-basics",
+      "title": "أساسيات إعدادات الكاميرا: مثلث التعريض الضوئي",
+      "excerpt": "افهم العلاقة بين فتحة العدسة وسرعة الغالق وحساسية ISO للتحكم الكامل في صورك.",
+      "content": "مثلث التعريض الضوئي هو المفهوم الأساسي الذي يجب على كل مصور فهمه. يتكون من ثلاثة عناصر: فتحة العدسة، سرعة الغالق، و ISO.",
+      "category": "تقنيات",
+      "readTime": 7,
+      "date": "2026-01-08",
+      "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=800",
+      "featured": false,
+      "author": {
+        "name": "داود خالد",
+        "role": "مدرب تصوير",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+      }
+    },
+    {
+      "id": 5,
+      "slug": "photo-composition-rules",
+      "title": "قواعد التكوين الفوتوغرافي: كيف تجعل صورك أكثر جاذبية",
+      "excerpt": "تعلم قواعد التكوين الأساسية التي يستخدمها المصورون المحترفون لإنشاء صور مؤثرة بصرياً.",
+      "content": "التكوين الجيد هو ما يميز الصورة العادية عن الصورة الاستثنائية. قاعدة الأثلاث هي واحدة من أهم قواعد التكوين.",
+      "category": "تقنيات",
+      "readTime": 9,
+      "date": "2026-01-05",
+      "image": "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?w=800",
+      "featured": false,
+      "author": {
+        "name": "ليث محمود",
+        "role": "فنان بصري",
+        "avatar": "https://randomuser.me/api/portraits/men/5.jpg"
+      }
+    },
+    {
+      "id": 6,
+      "slug": "mobile-photography-tips",
+      "title": "تصوير الهاتف المحمول: كيف تلتقط صوراً احترافية بهاتفك",
+      "excerpt": "اكتشف كيف تحول هاتفك الذكي إلى أداة تصوير قوية مع هذه النصائح والتقنيات.",
+      "content": "الهواتف الذكية الحديثة تحتوي على كاميرات قوية جداً. مع بعض المعرفة والتقنيات، يمكنك التقاط صور مذهلة.",
+      "category": "معدات",
+      "readTime": 8,
+      "date": "2026-01-03",
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800",
+      "featured": false,
+      "author": {
+        "name": "جمال عبدالله",
+        "role": "مصور ومراجع تقني",
+        "avatar": "https://randomuser.me/api/portraits/men/6.jpg"
+      }
+    },
+    {
+      "id": 7,
+      "slug": "studio-lighting-techniques",
+      "title": "تقنيات إضاءة الاستوديو: من الأساسيات إلى الاحتراف",
+      "excerpt": "تعلم كيفية استخدام معدات الإضاءة في الاستوديو لإنشاء صور احترافية.",
+      "content": "إضاءة الاستوديو تمنحك تحكماً كاملاً في الضوء. من الفلاش إلى السوفت بوكس، كل أداة لها استخدامها.",
+      "category": "إضاءة",
+      "readTime": 12,
+      "date": "2026-01-01",
+      "image": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=800",
+      "featured": false,
+      "author": {
+        "name": "سالم أحمد",
+        "role": "مصور محترف",
+        "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+      }
+    },
+    {
+      "id": 8,
+      "slug": "street-photography-guide",
+      "title": "دليل تصوير الشوارع: كيف تلتقط لحظات الحياة اليومية",
+      "excerpt": "اكتشف أسرار تصوير الشوارع وكيفية التقاط اللحظات العفوية بشكل فني.",
+      "content": "تصوير الشوارع هو فن توثيق الحياة اليومية. يتطلب سرعة البديهة والقدرة على التنبؤ باللحظات.",
+      "category": "تقنيات",
+      "readTime": 7,
+      "date": "2025-12-28",
+      "image": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=800",
+      "featured": false,
+      "author": {
+        "name": "محمد علي",
+        "role": "مصور بورتريه",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+      }
+    },
+    {
+      "id": 9,
+      "slug": "night-photography-tips",
+      "title": "تصوير الليل: كيف تلتقط صوراً مذهلة في الظلام",
+      "excerpt": "تعلم تقنيات التصوير الليلي وكيفية التغلب على تحديات الإضاءة المنخفضة.",
+      "content": "التصوير الليلي يفتح عالماً جديداً من الإمكانيات. من تصوير النجوم إلى أضواء المدينة.",
+      "category": "إضاءة",
+      "readTime": 9,
+      "date": "2025-12-25",
+      "image": "https://images.unsplash.com/photo-1507400492013-162706c8c05e?w=800",
+      "featured": false,
+      "author": {
+        "name": "إبراهيم حسن",
+        "role": "مصور طبيعة",
+        "avatar": "https://randomuser.me/api/portraits/men/3.jpg"
+      }
+    },
+    {
+      "id": 10,
+      "slug": "choosing-your-first-camera",
+      "title": "اختيار كاميرتك الأولى: دليل المبتدئين الشامل",
+      "excerpt": "كل ما تحتاج معرفته لاختيار الكاميرا المناسبة لك كمصور مبتدئ.",
+      "content": "اختيار الكاميرا الأولى قرار مهم. DSLR أم Mirrorless؟ كل نوع له مميزاته وعيوبه.",
+      "category": "معدات",
+      "readTime": 11,
+      "date": "2025-12-22",
+      "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=800",
+      "featured": false,
+      "author": {
+        "name": "جمال عبدالله",
+        "role": "مصور ومراجع تقني",
+        "avatar": "https://randomuser.me/api/portraits/men/6.jpg"
+      }
+    },
+    {
+      "id": 11,
+      "slug": "editing-photos-lightroom",
+      "title": "تعديل الصور في لايتروم: من الأساسيات إلى الاحتراف",
+      "excerpt": "دليل شامل لاستخدام Adobe Lightroom في تحسين صورك وإبراز جمالها.",
+      "content": "لايتروم هو أداة قوية لتعديل الصور. من ضبط التعريض إلى تصحيح الألوان، الإمكانيات لا حصر لها.",
+      "category": "تقنيات",
+      "readTime": 15,
+      "date": "2025-12-20",
+      "image": "https://images.unsplash.com/photo-1572044162444-ad60f128bdea?w=800",
+      "featured": false,
+      "author": {
+        "name": "داود خالد",
+        "role": "مدرب تصوير",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+      }
+    },
+    {
+      "id": 12,
+      "slug": "environmental-portrait-tips",
+      "title": "تصوير البورتريه البيئي: كيف تروي قصة من خلال المكان",
+      "excerpt": "تعلم كيفية دمج الشخص مع محيطه لخلق صور بورتريه معبرة وغنية بالمعنى.",
+      "content": "البورتريه البيئي يجمع بين الشخص ومحيطه. المكان يصبح جزءاً من القصة التي ترويها الصورة.",
+      "category": "بورتريه",
+      "readTime": 8,
+      "date": "2025-12-18",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800",
+      "featured": false,
+      "author": {
+        "name": "محمد علي",
+        "role": "مصور بورتريه",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+      }
+    },
+    {
+      "id": 13,
+      "slug": "macro-photography-world",
+      "title": "عالم التصوير الماكرو: اكتشف الجمال في التفاصيل الصغيرة",
+      "excerpt": "استكشف عالم التصوير المقرب واكتشف الجمال المخفي في الأشياء الصغيرة.",
+      "content": "التصوير الماكرو يكشف عالماً مخفياً عن أعيننا. من قطرات الندى إلى تفاصيل الحشرات.",
+      "category": "تقنيات",
+      "readTime": 10,
+      "date": "2025-12-15",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
+      "featured": false,
+      "author": {
+        "name": "ليث محمود",
+        "role": "فنان بصري",
+        "avatar": "https://randomuser.me/api/portraits/men/5.jpg"
+      }
+    },
+    {
+      "id": 14,
+      "slug": "best-lenses-for-beginners",
+      "title": "أفضل العدسات للمبتدئين: دليل الاختيار الصحيح",
+      "excerpt": "تعرف على أنواع العدسات المختلفة وأيها الأنسب لاحتياجاتك كمصور مبتدئ.",
+      "content": "العدسة هي عين الكاميرا. اختيار العدسة المناسبة يؤثر بشكل كبير على نتائج صورك.",
+      "category": "معدات",
+      "readTime": 9,
+      "date": "2025-12-12",
+      "image": "https://images.unsplash.com/photo-1617005082133-548c4dd27f35?w=800",
+      "featured": false,
+      "author": {
+        "name": "جمال عبدالله",
+        "role": "مصور ومراجع تقني",
+        "avatar": "https://randomuser.me/api/portraits/men/6.jpg"
+      }
+    },
+    {
+      "id": 15,
+      "slug": "black-white-photography",
+      "title": "فن التصوير بالأبيض والأسود: كيف ترى العالم بدون ألوان",
+      "excerpt": "اكتشف جمال التصوير الأحادي وتعلم كيف ترى الضوء والظل بشكل مختلف.",
+      "content": "التصوير بالأبيض والأسود يركز على الضوء والظل والتكوين. بدون الألوان، تبرز العناصر الأخرى.",
+      "category": "تقنيات",
+      "readTime": 7,
+      "date": "2025-12-10",
+      "image": "https://images.unsplash.com/photo-1500043204644-ca70c8e0d6b8?w=800",
+      "featured": false,
+      "author": {
+        "name": "سالم أحمد",
+        "role": "مصور محترف",
+        "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+      }
+    },
+    {
+      "id": 16,
+      "slug": "wedding-photography-basics",
+      "title": "تصوير حفلات الزفاف: دليل المصور المبتدئ",
+      "excerpt": "تعلم أساسيات تصوير حفلات الزفاف وكيفية التقاط أهم لحظات اليوم الكبير.",
+      "content": "تصوير الزفاف يتطلب مهارات متعددة. من البورتريه إلى تصوير الأحداث، كل لحظة مهمة.",
+      "category": "بورتريه",
+      "readTime": 12,
+      "date": "2025-12-08",
+      "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=800",
+      "featured": false,
+      "author": {
+        "name": "إبراهيم حسن",
+        "role": "مصور طبيعة",
+        "avatar": "https://randomuser.me/api/portraits/men/3.jpg"
+      }
+    },
+    {
+      "id": 17,
+      "slug": "travel-photography-essentials",
+      "title": "أساسيات تصوير السفر: كيف توثق رحلاتك بشكل احترافي",
+      "excerpt": "نصائح عملية لتصوير السفر وكيفية التقاط جوهر كل مكان تزوره.",
+      "content": "تصوير السفر يجمع بين المناظر الطبيعية والبورتريه وتصوير الشوارع. كل رحلة فرصة لقصة جديدة.",
+      "category": "مناظر طبيعية",
+      "readTime": 11,
+      "date": "2025-12-05",
+      "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=800",
+      "featured": false,
+      "author": {
+        "name": "داود خالد",
+        "role": "مدرب تصوير",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+      }
+    },
+    {
+      "id": 18,
+      "slug": "food-photography-secrets",
+      "title": "أسرار تصوير الطعام: كيف تجعل الأطباق تبدو شهية",
+      "excerpt": "تعلم تقنيات تصوير الطعام الاحترافية لإنشاء صور تثير الشهية.",
+      "content": "تصوير الطعام يتطلب إضاءة خاصة وتنسيقاً دقيقاً. الهدف هو جعل المشاهد يشعر بالجوع.",
+      "category": "تقنيات",
+      "readTime": 8,
+      "date": "2025-12-02",
+      "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=800",
+      "featured": false,
+      "author": {
+        "name": "ليث محمود",
+        "role": "فنان بصري",
+        "avatar": "https://randomuser.me/api/portraits/men/5.jpg"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "name": "إضاءة",
+      "slug": "lighting",
+      "count": 3,
+      "icon": "💡"
+    },
+    {
+      "name": "بورتريه",
+      "slug": "portrait",
+      "count": 3,
+      "icon": "👤"
+    },
+    {
+      "name": "مناظر طبيعية",
+      "slug": "landscape",
+      "count": 2,
+      "icon": "🏔️"
+    },
+    {
+      "name": "تقنيات",
+      "slug": "techniques",
+      "count": 5,
+      "icon": "⚙️"
+    },
+    {
+      "name": "معدات",
+      "slug": "equipment",
+      "count": 3,
+      "icon": "📷"
+    }
+  ]
+}
